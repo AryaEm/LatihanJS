@@ -38,7 +38,7 @@ class Kerucut extends Lingkaran {
   }
 
   volume() {
-    return (1 / 3) * this.luas() * this.tinggi;
+    return (1 / 3) * this.luas() * this.t;
   }
 
   luasPermukaan() {
